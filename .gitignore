@@ -1,0 +1,12 @@
+/.classpath
+/.project
+/.settings
+/target
+/bin
+/src/test
+/dependency-reduced-pom.xml
+/*.iml
+/.idea
+/forge-download
+*-private.sh
+javadoc.xml
