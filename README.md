@@ -1,9 +1,9 @@
-CmdMenu
+Command Line Menu Manager
 =========
 
 A small library that handles a command hierarchy using the command line
 
-[JavaDocs](http://docs.njay.net/cmdMenus/)
+[JavaDocs](http://docs.njay.net/cmd-menumanager/)
 
 Tutorial
 ========
